@@ -1,4 +1,13 @@
 # Define the variable board below.
 board = []
-9*(board << " ")
+board << " "
+board << " "
+board << " "
+board << " "
+board << " "
+board << " "
+board << " "
+board << " "
+board << " "
+
 puts board
