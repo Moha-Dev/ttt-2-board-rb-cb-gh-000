@@ -1,4 +1,4 @@
 # Define the variable board below.
 board = []
-board << " "*9
+board << "H "*9
 puts board
